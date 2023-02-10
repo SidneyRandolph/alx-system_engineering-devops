@@ -1,1 +1,1 @@
-File type: School
+Magic school
