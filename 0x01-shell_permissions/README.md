@@ -1,1 +1,1 @@
-New owner
+Look in the mirror
