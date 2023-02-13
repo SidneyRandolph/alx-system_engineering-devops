@@ -12,3 +12,4 @@ Being unique is better...
 It must be in that line
 Count that word
 I hate bins
+Letters only please
