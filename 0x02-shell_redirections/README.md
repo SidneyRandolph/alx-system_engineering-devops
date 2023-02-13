@@ -7,3 +7,4 @@ Line #2
 It is good file that cuts iron without making noise
 Save current state directory
 Duplicate last line
+No more javascript
