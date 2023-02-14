@@ -10,3 +10,4 @@ Every addition to true knowledge is an addition to human power
 Divide and rule
 Love is anterior to life
 The binary people
+Combination
